@@ -13,6 +13,6 @@
     "dev": "node dist/index.js"
   },
   "dependencies": {
-    "theme": "^1.0.0"
+    "theme": "2.0.0"
   }
 }
