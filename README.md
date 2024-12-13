@@ -33,8 +33,9 @@ The advantage of such setup is that we can update multiple packages in the same 
 
 References:
 
-- https://docs.npmjs.com/cli/v10/using-npm/workspaces
-- https://medium.com/@ruben.alapont/npm-workspaces-managing-multi-package-projects-28538fe40d1d
+- official doc: https://docs.npmjs.com/cli/v10/using-npm/workspaces
+- an overview: https://medium.com/@ruben.alapont/npm-workspaces-managing-multi-package-projects-28538fe40d1d
+- how to ensure the same dependency in all the workspaces: https://tobiasedwards.co.uk/blog/unifying-dependency-versions-across-npm-workspaces/
 
 Limitations:
 
