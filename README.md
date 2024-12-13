@@ -35,3 +35,7 @@ References:
 
 - https://docs.npmjs.com/cli/v10/using-npm/workspaces
 - https://medium.com/@ruben.alapont/npm-workspaces-managing-multi-package-projects-28538fe40d1d
+
+Limitations:
+
+- a workspace can access dependencies of another workspace, without the dependency being explicit: https://edrickleong.hashnode.dev/why-you-shouldnt-use-npm-workspaces
